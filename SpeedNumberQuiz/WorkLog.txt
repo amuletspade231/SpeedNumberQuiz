@@ -1,0 +1,10 @@
+estimate: 3 hours
+1/23 - 1 hr
+1/26 - 1 hr
+
+Total: 2 hr
+
+I think this took shorter because of a several reasons.
+1) This had less interconnecting parts/cases to think about
+2) This was more of a quick fun project while my first project was a proof of concept of a larger passion project
+3) Due to the time constraints of a deadline, I was less inclined to spend more time on expanding on my MVP
